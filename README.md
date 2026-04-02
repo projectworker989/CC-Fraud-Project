@@ -1,5 +1,5 @@
 # CC-Fraud-Project
-Binary classification project for detecting fraudulent credit card transactions using anonymized, highly imbalanced tabular data. Implements baseline and tree-based machine learning models, class-imbalance handling, and precision–recall evaluation to assess fraud risk.
+Binary classification project for detecting fraudulent credit card transactions using anonymized, highly imbalanced tabular data. Implements baseline and tree-based machine learning models, class-imbalance handling, and precision–recall evaluation to assess fraud risk. Data is from Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download 
 
 # Credit Card Fraud Detection
 
