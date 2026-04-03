@@ -10,7 +10,7 @@ from scipy.special import expit
 from IPython.display import display as dp
 
 
-df = pd.read_csv('C:/Users/raymo/OneDrive/Desktop/PROJECT FOR STATISTICS/With Connor and Galeno/Machine Learning Project/FILE TEMPLATE/Data/Temp/creditcard.csv')
+df = pd.read_csv('creditcard.csv')
 #pd.set_option('display.max_columns',500)
 pd.set_option('display.max_rows',500)
 print("There are (rows,columns) =", df.shape)
